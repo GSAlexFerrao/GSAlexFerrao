@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandre Ferrão
+- 👋 Hi, I’m Alexandre Ferrão, i am from Portugal and i love my country
 - 👀 I’m interested in SQL Server, Laravel, Javascript, Java, Flutter
 - 🌱 I’m currently learning more about SQL Server
 - 📫 How to reach me alexferrao2000@gmail.com
