@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexandre Ferrão
-- 👀 I’m interested SQL Server, Laravel, Javascript, Java, Flutter
-- 🌱 I’m currently SQL Server
+- 👀 I’m interested in SQL Server, Laravel, Javascript, Java, Flutter
+- 🌱 I’m currently learning more about SQL Server
 - 📫 How to reach me alexferrao2000@gmail.com
 
 <!---
